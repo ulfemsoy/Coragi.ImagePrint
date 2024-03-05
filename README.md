@@ -8,7 +8,7 @@ Export as PDF: Need to share your photos digitally? ImagePrint lets you export y
 
 3. Large Drawings and Wall Displays
 Create Wall Displays: ImagePrint isn’t limited to standard photo sizes. If you have large drawings, intricate designs, or panoramic images, ImagePrint enables you to print them across multiple pages. Imagine assembling a stunning wall display from your favorite artwork!
-Vector Format Support: Import vector drawings (in EMF format) and print them seamlessly. Whether it’s architectural plans, technical diagrams, or artistic illustrations, ImagePrint handles them all.
+Vector Format Support: Import vector drawings (in EMF and SVG formats) and print them seamlessly. Whether it’s architectural plans, technical diagrams, or artistic illustrations, ImagePrint handles them all.
 
 5. Basic Photo Retouching and Adjustments
 Fine-Tune Your Images: ImagePrint includes essential tools for photo enhancement. Adjust brightness, contrast, hue, saturation, grayscale, and transparency to achieve the desired look.
