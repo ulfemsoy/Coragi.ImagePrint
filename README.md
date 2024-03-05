@@ -1,4 +1,4 @@
-# Coragi.ImagePrint: Unlocking the Potential of Your Photos and Art
+# Coragi ImagePrint: Unlocking the Potential of Your Photos and Art
 ImagePrint is a versatile Windows application designed to empower users by transforming their digital memories and artistic creations into tangible prints. Whether you want to immortalize cherished moments or showcase your artwork, ImagePrint offers a range of features to help you achieve your vision.
 
 ## Key Features
@@ -18,14 +18,14 @@ Wide-Format Paper Roll Printers: If you own a printer like the HP Designjet, Ima
 DIY Passport Photos: Generate your own passport-sized photos effortlessly. No need for expensive photo studios—ImagePrint has you covered.
 Custom Art and Collages: Unleash your creativity! Use ImagePrint to craft custom collages, personalized art pieces, or logo walls.
 7. Image Formats Supported
-BMP
-JPEG
-GIF
-PNG
-TIFF
-WMF
-EMF
-SVG
+* BMP
+* JPEG
+* GIF
+* PNG
+* TIFF
+* WMF
+* EMF
+* SVG
 
 ## Who Can Benefit from ImagePrint?
 Whether you’re printing family photos, creating personalized gifts, or decorating your home, ImagePrint caters to your needs.
