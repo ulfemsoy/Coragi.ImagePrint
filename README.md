@@ -1,7 +1,7 @@
 # Coragi.ImagePrint: Unlocking the Potential of Your Photos and Art
 ImagePrint is a versatile Windows application designed to empower users by transforming their digital memories and artistic creations into tangible prints. Whether you want to immortalize cherished moments or showcase your artwork, ImagePrint offers a range of features to help you achieve your vision.
 
-##Key Features
+#Key Features
 1. Photo Printing and Exporting
 Print Your Photos: ImagePrint allows you to print your digital photos with precision. Whether it’s a family portrait, a breathtaking landscape, or a candid snapshot, ImagePrint ensures that your memories come to life on paper.
 Export as PDF: Need to share your photos digitally? ImagePrint lets you export your images as PDF documents, making it easy to share them with friends, family, or clients.
@@ -27,11 +27,11 @@ WMF
 EMF
 SVG
 
-##Who Can Benefit from ImagePrint?
+#Who Can Benefit from ImagePrint?
 Whether you’re printing family photos, creating personalized gifts, or decorating your home, ImagePrint caters to your needs.
 Architects, artists, graphic designers, and photographers can leverage ImagePrint for large-format printing and precise image control.
 
-##How to Get ImagePrint
+#How to Get ImagePrint
 Download from Microsoft Store: ImagePrint is available for download on the Microsoft Store. The application automatically updates when new versions and bug fixes are released.
 Stay Updated: Keep an eye on the release notes to stay informed about the latest enhancements.
 
