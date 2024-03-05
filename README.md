@@ -1,4 +1,4 @@
-# Coragi ImagePrint: Unlocking the Potential of Your Photos and Art
+# ImagePrint: Unlocking the Potential of Your Photos and Art
 [ImagePrint](https://www.coragi.com/imageprint) is a versatile Windows application designed to empower users by transforming their digital memories and artistic creations into tangible prints. Whether you want to immortalize cherished moments or showcase your artwork, ImagePrint offers a range of features to help you achieve your vision.
 
 ## Key Features
